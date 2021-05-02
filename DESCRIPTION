@@ -8,7 +8,7 @@ Depends:
     car,
     msm, MASS
 Suggests:
-    knitr
+    knitr, markdown
 VignetteBuilder: knitr
 Description: Fit, summarize and plot sinusoidal hysteretic processes using:
     two-step simple harmonic least squares, ellipse-specific non-linear least
