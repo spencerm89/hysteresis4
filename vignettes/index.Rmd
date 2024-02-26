@@ -1,5 +1,5 @@
 <!--
-%\VignetteEngine{rmarkdown::render}
+%\VignetteEngine{knitr::knitr}
 %\VignetteIndexEntry{An Introduction to the hysteresis package}
 -->
 
