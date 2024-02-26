@@ -89,7 +89,8 @@ For bootstrapping
     If multiple ellipses are fit simultaneously there will be three arguments to the response, models which will contain the separate model fits for each ellipse, Estimates which will have all of the parameter estimates in matrix form, and Std.Errors which will have all of the delta method standard errors in matrix form. See \code{\link{fel.repeated}}.
 }
 \references{
-Yang, F. and A. Parkhurst, Efficient Estimation of Elliptical Hysteresis. (submitted)
+Yang, F and A. Parkhurst, "Efficient Estimation of Elliptical Hysteresis with 
+    Application to the Characterization of Heat Stress" DOI:10.1007/s13253-015-0213-6
 }
 \author{
 Spencer Maynes, Fan Yang, and Anne Parkhurst.
